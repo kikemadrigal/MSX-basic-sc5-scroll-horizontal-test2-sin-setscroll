@@ -5,7 +5,7 @@
 30 a=vdp(-1)
 40 c=a and &b00001110
 1 'Si no es un MSX2+ vamos al final del programa'
-50 if c <> 4 then print #1,"Lo siento pero tu MSX es un MSX2 y no puede ejecutar mi juego, necestas un MSX2+": goto 10000
+50 rem if c <> 4 then print #1,"Lo siento pero tu MSX es un MSX2 y no puede ejecutar mi juego, necestas un MSX2+": goto 10000
 60 print #1,"Bien estas en un MSX2+!!!!"
 
 

@@ -89,7 +89,7 @@
     21000 _TURBO on(mc)
     21010 mc=mc+1
     21020 'setscroll mc,0,1,0
-    21025 vdp(27)=vdp(27)+mc and 255
+    21025 vdp(27)=vdp(27)+mc and mc<255
     21030 if mc>255 then mc=1
     21090 _TURBO off
 21100 return
