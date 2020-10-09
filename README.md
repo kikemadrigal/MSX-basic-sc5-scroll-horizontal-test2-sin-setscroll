@@ -2,4 +2,4 @@
 
 # Prueba el juego aki
 
-http://msx.tipolisto.es/webmsx/standalone/?disk=files/scrollhsc5MSX2+test.dsk
+http://msx.tipolisto.es/webmsx/standalone/?disk=files/scrollhtest.dsk
